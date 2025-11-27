@@ -106,5 +106,5 @@ Dynamic Royalties: Внедрение динамических роялти, п�
 
 
 ##  Адрес 
-https://marketplace1155-i7vdvpsld-nikolaj223s-projects.vercel.app<img width="1104" height="81" alt="image" src="https://github.com/user-attachments/assets/67a23d79-9f15-4e1b-b5f6-e3d464a6e079" />
+https://marketplace1155-i7vdvpsld-nikolaj223s-projects.vercel.app
 
